@@ -1,1 +1,2 @@
 hello from Windows
+hello from Remote
